@@ -9,8 +9,7 @@
   "scripts": {
     "start": "node index.js",
     "start-watch": "nodemon source/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npm install "
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
